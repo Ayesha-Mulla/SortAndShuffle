@@ -178,25 +178,25 @@ ul li {
     color: #000000;
     font-size: 1.2em;
     text-align: center;
-    background: #efefef !important;
+    background: #EFEFEF !important;
     margin-bottom: 10px;
   }
   .li-3,
   .li-5,
   .li-9 {
-      border-left: 0.3em solid #2f454e;
+      border-left: 0.3em solid #2F454E;
   }
   .li-2,
   .li-4 {
-      border-left: 0.3em solid #2b8ead;
+      border-left: 0.3em solid #2B8EAD;
   }
   .li-1,
   .li-8 {
-      border-left: 0.3em solid #6f98a8;
+      border-left: 0.3em solid #6F98A8;
   }
   .li-6,
   .li-7 {
-      border-left: 0.3em solid #bfbfbf;
+      border-left: 0.3em solid #BFBFBF;
   }
 }
 
